@@ -114,14 +114,11 @@ Para garantir o funcionamento correto do projeto:
 - Execute o código e observe se o ciclo segue os tempos estabelecidos:
   - Vermelho (6s), Amarelo (2s), Verde (2s), Verde (mais 2s), Amarelo (2s).
 
-## 8. Conclusão
-
-Este projeto oferece uma introdução prática ao uso do Arduino para controlar LEDs em uma sequência lógica, simulando um semáforo. Ele ensina conceitos básicos de programação, temporização e eletrônica.
 
 
 
 
-
+## 8. Avaliação em pares
 
 
 ### Avaliador: Julia Alves de Jesus
@@ -144,3 +141,7 @@ Este projeto oferece uma introdução prática ao uso do Arduino para controlar 
 | Código implementa corretamente as fases do semáforo e estrutura do código (variáveis representativas e comentários) | Até 3              | Até 1,5                          | 3                        |                           |
 | Extra: Implmeentou um componente de liga/desliga no semáforo e/ou usou ponteiros no código | Até 1              |  Até 0,5                         |  1                        | OBS: Extra é colocar o sinal dentro do molde de madeira                           |
 |  |                                                             |  | |**Pontuação Total** 10 |
+
+## 9. Conclusão
+
+Este projeto oferece uma introdução prática ao uso do Arduino para controlar LEDs em uma sequência lógica, simulando um semáforo. Ele ensina conceitos básicos de programação, temporização e eletrônica.
